@@ -1,0 +1,4 @@
+httpserver==1.1.0
+sockets==1.0.0
+tkinter-page==0.0.5
+tk-tools==0.16.0
